@@ -3,7 +3,7 @@ package Ejersicios_Trabajao1_POO;
 import javax.swing.JOptionPane;
 
 public class POOER12 {
-
+//Ejercicio 12
 	public static void main(String[] args) {
 		double rete_fuente;
 		double sa_bruto;
