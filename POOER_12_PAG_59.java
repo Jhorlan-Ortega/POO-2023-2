@@ -1,8 +1,8 @@
 package Ejersicios_Trabajao1_POO;
-
 import javax.swing.JOptionPane;
 
 public class POOER_12_PAG_59 {
+//Ejercicio 12 de la pagina 59-60 del libro Lógica de Programación de Efraín Oviedo
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
