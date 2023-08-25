@@ -1,7 +1,7 @@
 package Ejersicios_Trabajao1_POO;
 import javax.swing.*;
 public class POOER17 {
-
+//Ejercicio 17
 	public static void main(String[] args) {
 	String solicitud;
 	double radio=Double.parseDouble(JOptionPane.showInputDialog("Ingrese el radio del circulo en cm: "));
