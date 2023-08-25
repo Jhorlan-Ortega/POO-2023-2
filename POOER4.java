@@ -1,7 +1,7 @@
 package Ejersicios_Trabajao1_POO;
 import javax.swing.*;
 public class POOER4 {
-//Ejercisio 4
+//Ejercicio 4
 	public static void main(String[] args) {
 		System.out.println("La mamá de Juan tiene tres hijos");
 		int edad_juan=Integer.parseInt(JOptionPane.showInputDialog("Ingrese la edad de Juan: "));
