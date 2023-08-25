@@ -1,7 +1,7 @@
 package Ejersicios_Trabajao1_POO;
 import javax.swing.*;
 public class POOER5 {
-
+//Ejersicio 5
 	public static void main(String[] args) {
 		System.out.println("La suma parte de cero");
 		double suma=0; 
