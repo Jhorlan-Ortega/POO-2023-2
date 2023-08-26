@@ -26,8 +26,5 @@ public class POOER_12 {
 			salario=horas_trabajadas*valor_hora;
 		}
 		System.out.println("EL TRABAJADOR,"+nom_trabajador+" DEVENGO: $"+salario);
-			
-
 	}
-
 }
